@@ -1,4 +1,4 @@
-# 基于 webpack 的前端 workflow
+# Functional Programming
 
 ## 目录结构
 

@@ -4,4 +4,5 @@ import "mobile-responsive";
 
 import './chapter5/dispatch';
 import './chapter5/rightAwayInvoker';
+import './chapter7/Queue'
 

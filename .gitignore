@@ -1,0 +1,14 @@
+# 忽略node依赖
+/node_modules
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+npm-debug.log
+assetsMap.json
+assetsLib.json
+assetsMapMobile.json
+bundleInfo.txt
+static/js
+static/css
+!static/common.css
+!static/normalize.css
